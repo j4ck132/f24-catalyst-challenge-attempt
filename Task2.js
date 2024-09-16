@@ -1,5 +1,5 @@
 // How do I run this script? 
-// node Task2.ts    
+// node Task2.js    
 
 todoList = [
     "Apply to y/cs!",
